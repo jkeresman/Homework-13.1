@@ -52,8 +52,8 @@ def main():
         else:
             print("Wrong input. Please try again!!")
 
-    write_to_json(json_file=football_players_file,player_list=football_players)
-    write_to_json(json_file=basketball_players_file,player_list=basketball_players)
+    write_to_json(json_file=football_players_file, player_list=football_players)
+    write_to_json(json_file=basketball_players_file, player_list=basketball_players)
 
 
 if __name__ == "__main__":
