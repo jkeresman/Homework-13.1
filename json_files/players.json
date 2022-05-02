@@ -1,0 +1,82 @@
+[
+    {
+        "FootballPlayer": true,
+        "first_name": "Luka",
+        "goals": 3,
+        "height_cm": 234.0,
+        "last_name": "Modric",
+        "red_cards": 5,
+        "weight_kg": 234.0,
+        "yellow_cards": 4
+    },
+    {
+        "FootballPlayer": true,
+        "first_name": "Cristiano",
+        "goals": 324,
+        "height_cm": 234.0,
+        "last_name": "Ronaldo",
+        "red_cards": 3,
+        "weight_kg": 23.0,
+        "yellow_cards": 32
+    },
+    {
+        "BasketballPlayer": true,
+        "assists": 4,
+        "first_name": "Luka",
+        "height_cm": 234.0,
+        "last_name": "Doncic",
+        "points": 23,
+        "rebounds": 324,
+        "weight_kg": 324.0
+    },
+    {
+        "BasketballPlayer": true,
+        "assists": 4,
+        "first_name": "Stephen",
+        "height_cm": 345.0,
+        "last_name": "Curry",
+        "points": 34,
+        "rebounds": 34,
+        "weight_kg": 234.0
+    },
+    {
+        "BasketballPlayer": true,
+        "assists": 34,
+        "first_name": "LeBron",
+        "height_cm": 234.0,
+        "last_name": "James",
+        "points": 432,
+        "rebounds": 324,
+        "weight_kg": 32.0
+    },
+    {
+        "BasketballPlayer": true,
+        "assists": 3,
+        "first_name": "Kevin",
+        "height_cm": 23.0,
+        "last_name": "Durant",
+        "points": 235,
+        "rebounds": 32,
+        "weight_kg": 532.0
+    },
+    {
+        "FootballPlayer": true,
+        "first_name": "Leo",
+        "goals": 324,
+        "height_cm": 2345.0,
+        "last_name": "Messi",
+        "red_cards": 3,
+        "weight_kg": 324.0,
+        "yellow_cards": 5
+    },
+    {
+        "FootballPlayer": true,
+        "first_name": "Kai",
+        "goals": 4,
+        "height_cm": 345.0,
+        "last_name": "Havertz",
+        "red_cards": 6,
+        "weight_kg": 345.0,
+        "yellow_cards": 5
+    }
+]
