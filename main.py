@@ -9,9 +9,6 @@ def main():
 
     players = read_from_json(json_file=players_file)
 
-    for player in players:
-        print(player)
-
     while True:
 
         print("1) Football player\n2) Basketball player\n3) Quit")
